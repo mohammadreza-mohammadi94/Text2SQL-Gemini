@@ -76,6 +76,5 @@ if submit:
         except Exception as e:
             st.error(f"Error executing query: {str(e)}")
 
-# Initial setup if the database table doesn't exist
-create_student_table()
-insert_data()  # Insert data if needed (you can comment this out after the first run)
+# create_student_table()
+# insert_data()
