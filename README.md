@@ -97,5 +97,4 @@ Text-to-SQL-Query-Generator/
 Feel free to fork this repository and submit pull requests for improvements or bug fixes. Ensure you follow the project structure and add appropriate tests for new features.
 
 ## License
-
 This project is licensed under the MIT License.
